@@ -38,10 +38,3 @@
 
 <a href="https://github.com/zeeshanzn95496-code">GitHub</a>
 
-## Activity
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=zeeshanzn95496-code&theme=satan" alt="zeeshanzn95496-code contribution activity" />
-</p>
-
-<p align="center"><sub>shaikh zeeshan · <a href="https://www.gitskins.com/readme-generator?template=community-recruiter-ready-danv">Recruiter-ready</a> template by <a href="https://www.gitskins.com/creators/itzz-shantanu">@itzz-shantanu</a>, a remix of <a href="https://www.gitskins.com/readme-generator?template=recruiter">Recruiter-ready</a> by GitSkins · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
