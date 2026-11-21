@@ -6,13 +6,13 @@
   <img src="https://www.gitskins.com/api/section/hero?username=zeeshanzn95496-code&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F334080340%3Fv%3D4" alt="zeeshanzn95496-code hero visual" />
 </p>
 
-<p><b>Frontend or full-stack engineer</b></p>
+<p><b>Frontend engineer</b></p>
 
 </div>
 
 ## About
 
-> Building useful things and learning in public.
+> Building things and learning in public.
 
 - 👥 **3** followers · **3** following
 
@@ -38,3 +38,10 @@
 
 <a href="https://github.com/zeeshanzn95496-code">GitHub</a>
 
+## Activity
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=zeeshanzn95496-code&theme=satan" alt="zeeshanzn95496-code contribution activity" />
+</p>
+
+<p align="center"><sub>shaikh zeeshan ·
