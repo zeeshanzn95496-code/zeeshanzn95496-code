@@ -14,7 +14,7 @@
 
 > Building things and learning in public.
 
-- 👥 **3** followers · **3** following
+- 👥 **4** followers · **4** following
 
 *Small, useful work over vague claims.*
 
@@ -38,10 +38,6 @@
 
 <a href="https://github.com/zeeshanzn95496-code">GitHub</a>
 
-## Activity
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=zeeshanzn95496-code&theme=satan" alt="zeeshanzn95496-code contribution activity" />
-</p>
 
-<p align="center"><sub>shaikh zeeshan ·
+  <p align="center"><sub>shaikh zeeshan currently in second year computer science and engineering mgm jnec aurangabad
