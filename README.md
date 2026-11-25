@@ -1,49 +1,52 @@
-## Profile snapshot
-
-<div align="center">
+👋 Hi, I'm Shaikh Zeeshan
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=zeeshanzn95496-code&theme=github_dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F334080340%3Fv%3D4" alt="zeeshanzn95496-code hero visual" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&height=45&lines=Frontend+Developer;2nd+Year+CSE+%40+MGM+JNEC;Building+and+Learning+Every+Day" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3500&pause=1000&color=E11D48&center=true&vCenter=true&width=750&height=35&lines=Shaikh+Zeeshan+%7C+2nd+Year+CSE+%40+MGM+JNEC+Aurangabad" alt="Shaikh Zeeshan Bio" />
+<b>Frontend Developer | Computer Science Student</b>
 </p>
 
-<p><b>Frontend engineer</b></p>
-
-</div>
-
----
-
-## About
-
-> Building things and learning in public.
-
-- 👥 **4** followers · **4** following
-
-*Small, useful work over vague claims.*
-
----
-
-## Core toolkit
+🚀 About Me
+Building things and learning in public.
+🎓 2nd Year Computer Science Engineering student at MGM JNEC, Aurangabad.
+💻 Interested in frontend development.
+🌱 Constantly learning and improving my skills.
+🎯 Focused on building useful projects.
+🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=zeeshanzn95496-code&theme=github_dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F334080340%3Fv%3D4" alt="zeeshanzn95496-code stack visual" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,git,github,vscode&theme=dark" alt="Tech Stack" />
 </p>
 
----
-
-## Selected work
+📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/projects?username=zeeshanzn95496-code&theme=github_dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F334080340%3Fv%3D4" alt="zeeshanzn95496-code projects visual" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=zeeshanzn95496-code&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshanzn95496-code&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </p>
 
----
-
-## Let’s connect
+🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=zeeshanzn95496-code&theme=github_dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F334080340%3Fv%3D4" alt="zeeshanzn95496-code social visual" />
+<img src="https://streak-stats.demolab.com?user=zeeshanzn95496-code&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+</p>
+
+📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zeeshanzn95496-code&theme=github-compact&hide_border=true" alt="Contribution Graph" />
+</p>
+
+🤝 Let's Connect
+
+<p align="center">
+<a href="https://github.com/zeeshanzn95496-code">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+</p>
+
+<p align="center">
+<i>⭐</i>
 </p>
