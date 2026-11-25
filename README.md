@@ -48,5 +48,5 @@ Building things and learning in public.
 </p>
 
 <p align="center">
-<i>⭐</i>
+<i>SHAIKH⭐ZEESHAN</i>
 </p>
