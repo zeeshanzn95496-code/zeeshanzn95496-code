@@ -1,7 +1,7 @@
 👋 Hi, I'm Shaikh Zeeshan
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&height=45&lines=Frontend+Developer;2nd+Year+CSE+%40+MGM+JNEC;Building+and+Learning+Every+Day" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&duration=5000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&height=65&lines=Frontend+Developer;2nd+Year+CSE+%40+MGM+JNEC;Building+and+Learning+Every+Day" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@ Building things and learning in public.
 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,python,php,c,c++,vscode&theme=dark" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,python,php,c,cpp,vscode&theme=dark" alt="Tech Stack" />
 </p>
 
 📊 GitHub Statistics
