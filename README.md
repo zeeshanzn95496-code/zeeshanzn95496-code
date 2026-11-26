@@ -17,7 +17,7 @@ Building things and learning in public.
 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,git,github,vscode&theme=dark" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,python,php,c,c++,vscode&theme=dark" alt="Tech Stack" />
 </p>
 
 📊 GitHub Statistics
